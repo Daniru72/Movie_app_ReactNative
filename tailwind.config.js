@@ -2,7 +2,7 @@
 
 module.exports = {
   content: [
-    "./app/**/*.{js,jsx,ts,tsx}", // Ensure your app directory is included
+    "./app/**/*.{js,jsx,ts,tsx}", './components/**/*.{js,jsx,ts,tsx}' // Ensure your app directory is included
   ],
   theme: {
     extend: {
