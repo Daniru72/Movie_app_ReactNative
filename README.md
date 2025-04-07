@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to my Movie app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -34,6 +34,16 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+### Design
+<img src="https://github.com/user-attachments/assets/743a8f8c-6545-4803-b026-3552e78405b4" alt="IMG-20241218-WA0002" width="400">
+
+<img src="https://github.com/user-attachments/assets/b9edba33-3942-4049-8e89-5f88dcfb3270" alt="IMG-20241218-WA0004" width="400">
+
+<img src="https://github.com/user-attachments/assets/d4c20635-feae-4961-be9d-8e6fb2fac0fa" alt="IMG-20241218-WA0001" width="400">
+
+<img src="https://github.com/user-attachments/assets/908067c6-a529-4ec3-8289-90b3b84cbbca" alt="IMG-20241218-WA0006" width="400">
+
 
 ## Learn more
 
