@@ -23,7 +23,7 @@ function Profile() {
         {/* User Avatar */}
         <View className="items-center mt-10">
           <Image
-            source={{ uri: "https://via.placeholder.com/150" }} // Replace with actual avatar URL
+            source= {icons.person}// Replace with actual avatar URL
             className="w-32 h-32 rounded-full bg-slate-100"
           />
           <Text className="text-white text-2xl font-bold mt-5">{`${firstName} ${lastName}`}</Text>
